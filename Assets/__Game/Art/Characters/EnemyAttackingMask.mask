@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EnemyAttackingMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Enemy1ROOT
+    m_Weight: 1
+  - m_Path: Enemy1ROOT/Head
+    m_Weight: 1
+  - m_Path: Enemy1ROOT/Head/L_Wing1
+    m_Weight: 1
+  - m_Path: Enemy1ROOT/Head/L_Wing1/L_WingEND
+    m_Weight: 1
+  - m_Path: Enemy1ROOT/Head/LowJaw
+    m_Weight: 1
+  - m_Path: Enemy1ROOT/Head/LowJaw/LowJawEND
+    m_Weight: 1
+  - m_Path: Enemy1ROOT/Head/R_Wing
+    m_Weight: 1
+  - m_Path: Enemy1ROOT/Head/R_Wing/R_WingEND
+    m_Weight: 1
+  - m_Path: Enemy1ROOT/Head/TailRoot
+    m_Weight: 1
+  - m_Path: Enemy1ROOT/Head/TailRoot/Tail1
+    m_Weight: 1
+  - m_Path: Enemy1ROOT/Head/TailRoot/Tail1/TailEND
+    m_Weight: 1
+  - m_Path: Enemy1ROOT/Head/UpJaw
+    m_Weight: 1
+  - m_Path: Enemy1ROOT/Head/UpJaw/UpJawEND
+    m_Weight: 1
+  - m_Path: SM_enemy01
+    m_Weight: 1

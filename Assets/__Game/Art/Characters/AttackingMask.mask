@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AttackingMask
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Geometry
+    m_Weight: 0
+  - m_Path: Geometry/PC_Body
+    m_Weight: 0
+  - m_Path: Geometry/PC_Body_details
+    m_Weight: 0
+  - m_Path: Geometry/PC_Closed_eyes
+    m_Weight: 0
+  - m_Path: Geometry/PC_Open_eyes
+    m_Weight: 0
+  - m_Path: PC_rig:PC_ROOT
+    m_Weight: 0
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS
+    m_Weight: 0
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:CHEST
+    m_Weight: 1
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:CHEST/PC_rig:HEAD
+    m_Weight: 1
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:CHEST/PC_rig:HEAD/PC_rig:LowJaw
+    m_Weight: 1
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:CHEST/PC_rig:HEAD/PC_rig:LowJaw/PC_rig:LowjawEND
+    m_Weight: 1
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:CHEST/PC_rig:HEAD/PC_rig:UpJaw
+    m_Weight: 1
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:CHEST/PC_rig:HEAD/PC_rig:UpJaw/PC_rig:L_Eye
+    m_Weight: 1
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:CHEST/PC_rig:HEAD/PC_rig:UpJaw/PC_rig:L_Eye/PC_rig:L_EyeEND
+    m_Weight: 1
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:CHEST/PC_rig:HEAD/PC_rig:UpJaw/PC_rig:L_Eye2
+    m_Weight: 1
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:CHEST/PC_rig:HEAD/PC_rig:UpJaw/PC_rig:L_Eye2/PC_rig:L_Eye2END
+    m_Weight: 1
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:CHEST/PC_rig:HEAD/PC_rig:UpJaw/PC_rig:R_Eye
+    m_Weight: 1
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:CHEST/PC_rig:HEAD/PC_rig:UpJaw/PC_rig:R_Eye/PC_rig:R_EyeEND
+    m_Weight: 1
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:CHEST/PC_rig:HEAD/PC_rig:UpJaw/PC_rig:R_Eye2
+    m_Weight: 1
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:CHEST/PC_rig:HEAD/PC_rig:UpJaw/PC_rig:R_Eye2/PC_rig:R_EyeEND
+      1
+    m_Weight: 1
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:CHEST/PC_rig:HEAD/PC_rig:UpJaw/PC_rig:UpjawEND
+    m_Weight: 1
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:L_knee
+    m_Weight: 0
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:L_knee/PC_rig:L_Foot
+    m_Weight: 0
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:L_knee/PC_rig:L_Foot/PC_rig:L_Toes
+    m_Weight: 0
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:L_knee/PC_rig:L_Foot/PC_rig:L_Toes/PC_rig:L_ToesEND
+    m_Weight: 0
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:R_knee
+    m_Weight: 0
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:R_knee/PC_rig:R_Foot1
+    m_Weight: 0
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:R_knee/PC_rig:R_Foot1/PC_rig:R_Toes
+    m_Weight: 0
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:R_knee/PC_rig:R_Foot1/PC_rig:R_Toes/PC_rig:R_ToesEND
+    m_Weight: 0
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:TailRoot
+    m_Weight: 0
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:TailRoot/PC_rig:Tail1
+    m_Weight: 0
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:TailRoot/PC_rig:Tail1/PC_rig:Tail2
+    m_Weight: 0
+  - m_Path: PC_rig:PC_ROOT/PC_rig:HIPS/PC_rig:TailRoot/PC_rig:Tail1/PC_rig:Tail2/PC_rig:TailEND
+    m_Weight: 0

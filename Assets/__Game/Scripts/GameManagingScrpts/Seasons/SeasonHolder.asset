@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f2b1714325fd8c4591100cc215caae1, type: 3}
+  m_Name: SeasonHolder
+  m_EditorClassIdentifier: 
+  _timeBetweenSeasons: 15
+  _seasonsInOrder:
+  - {fileID: 11400000, guid: 22aa9917965be9e4b8ad46060f0dd354, type: 2}
+  - {fileID: 11400000, guid: 79e9bf3b92ba927408d79c080f0e4670, type: 2}
+  - {fileID: 11400000, guid: f877119b6dd324f4abc983c454f61560, type: 2}
+  - {fileID: 11400000, guid: c2318ed4dd6b23f46926c7253ab7e314, type: 2}
+  - {fileID: 11400000, guid: 7098be84e0c43434faf2f0c490370cea, type: 2}
+  - {fileID: 11400000, guid: b22edcc1b18c91040b7acfd4a272b038, type: 2}
+  - {fileID: 11400000, guid: b87c492fde07438439a6dcbd91d74cf8, type: 2}
+  - {fileID: 11400000, guid: 752aaf5da540f5348bb5eabfd0e580e2, type: 2}
+  - {fileID: 11400000, guid: 653bf78a47c49fd4e845e09278058f03, type: 2}
+  - {fileID: 11400000, guid: c019b1305336da6429373bc3ac151b34, type: 2}
